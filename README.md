@@ -60,5 +60,4 @@ Do whatever you want with the ideas. They're not finished anyway — and what ki
 
 ( •̀ ω •́ )✧
 
-> Think about it, might be worth a thought or two...
 ---
