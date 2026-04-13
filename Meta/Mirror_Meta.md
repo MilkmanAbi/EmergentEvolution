@@ -1,6 +1,6 @@
 # Mirror: A Meta-Document on the Nature and Limits of This Study
 
-### *EmergentEvolution — Document 11, Final Document of the Foundational Series*
+### *EmergentEvolution — Document 11, Starting Final Document of the Foundational Series*
 
 ---
 
