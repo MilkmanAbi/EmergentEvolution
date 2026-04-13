@@ -4,6 +4,8 @@ A personal study of how complex systems *become* what they are — through inter
 
 Not a theory of everything. Just a structured attempt to understand something that keeps refusing to stay simple.
 
+This is the start of a small personal study on complex systems. Have fun!!
+
 ---
 
 ## ✦ What this is
@@ -30,7 +32,7 @@ So what we call intelligence, agency, sapience, identity — these might just be
 
 ❌ a claim that AI is conscious  
 ❌ a claim that humans are "just machines"  
-❌ a finished theory of anything
+❌ a finished theory of anything, it's by design meant to always be in a state of growing - EmergentEvolution
 
 It's intentionally unfinished. If something breaks under recursion, that's not a failure — that's usually the point. ( ´ ▽ ` )ﾉ
 
