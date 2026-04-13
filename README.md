@@ -6,6 +6,8 @@ Not a theory of everything. Just a structured attempt to understand something th
 
 This is the start of a small personal study on complex systems. Have fun!!
 
+The author is a silly lil guy, not serious, and the project is not trying to come off as extremely serious or have gravitas or anything of that sort. Blep :P
+
 ---
 
 ## ✦ What this is
