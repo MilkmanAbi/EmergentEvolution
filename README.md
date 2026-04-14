@@ -4,7 +4,7 @@ A personal study of how complex systems *become* what they are — through inter
 
 Not a theory of everything. Just a structured attempt to understand something that keeps refusing to stay simple.
 
-This is the start of a small personal study on complex systems. Have fun!!
+This is the start of a small personal study on complex systems. Have fun!! (I dunno, I think it's a short study, up to you)
 
 The author is a silly lil guy, not serious, and the project is not trying to come off as extremely serious or have gravitas or anything of that sort. Blep :P
 
