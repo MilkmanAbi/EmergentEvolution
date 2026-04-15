@@ -58,6 +58,10 @@ Do whatever you want with the ideas. They're not finished anyway — and what ki
 
 *If a system changes when observed, and the observer changes from observing it — what exactly is being studied?*
 
+---
+
+If you found this study interesting, please 🌟 it, makes me feel fuzzy and nice inside. ૮ ˶ᵔ ᵕ ᵔ˶ ა
+
 ( •̀ ω •́ )✧
 
 ---
